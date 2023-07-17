@@ -1,7 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  mode: 'universal',
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/content
